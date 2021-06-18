@@ -1,7 +1,6 @@
 import pygame
 import random
 from direction import Direction
-from collections import namedtuple
 from element import Element
 import numpy as np
 
